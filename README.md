@@ -13,7 +13,7 @@ This project allows users to securely share secrets via Slack commands. It integ
 
 
 ### Setup
-Check out the `docs/slack` and `docks/vault` to setup slack and vault. 
+Check out the `docs/slack` and `docs/vault` to setup slack and vault. 
 
 
 ### Run 
